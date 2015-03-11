@@ -2,7 +2,11 @@
 
 A drop-in module that allows for easy bug reporting, sending test cases to your users, and keeping track of number of bugs reported per users.
 
+一个插入的模块,允许简单的bug报告,向您的用户测试用例,跟踪每个用户报告的bug数量。
+
 Throughtout the development of your app, you may want some specific feedback on new features you added, or on bugs you fixed - BugHunt is here to help. By feeding test-scenarios to your users and keeping tab of the good karma points, you can achieve guided, focused testing of your app while making it a game to your (internal) users.
+
+来看你的应用程序的发展,你可能会想要一些新功能添加,具体反馈意见或错误你固定BugHunt来帮助。对用户的测试场景和保持标签的好运点,可以实现制导、集中测试你的应用而成为一个游戏(内部)的用户。
 
 **Meant for beta and internal usage. Future additions might include code not approved for the App Store.**
 
